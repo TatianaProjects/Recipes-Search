@@ -12,7 +12,6 @@ Find meal ideas, ingredients, and cooking inspiration in a clean and responsive 
 - React Hooks (`useState`, `useEffect`)
 - Dynamic recipe cards
 - Responsive design
-- Video background UI
 - Interactive search functionality
 
 ---
@@ -29,4 +28,4 @@ Find meal ideas, ingredients, and cooking inspiration in a clean and responsive 
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link.netlify.app/
+🔗 https://recipesearchapi2026.netlify.app/
